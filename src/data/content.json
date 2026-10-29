@@ -1,51 +1,105 @@
 {
-  "industry": "mühendislik",
-  "automotive": true,
-  "heroEyebrow": "TSE 360 & TÜVTÜRK YETKİLİ ARAÇ PROJE OFİSİ",
-  "heroTitle": "Araç proje hizmetleri ve motosiklet çanta ruhsata işletme",
-  "heroDescription": "Yetkili makine mühendisliği kadromuzla araç projelerinizi ve motosiklet çanta tescillerinizi hızlı, eksiksiz ve mevzuata tam uyumlu biçimde yönetiyoruz.",
+  "industry": "buzdolabı servisi",
+  "automotive": false,
+  "heroEyebrow": "PROFESYONEL BUZDOLABI TEKNİK SERVİSİ",
+  "heroTitle": "Garantili ve Hızlı Buzdolabı Tamir Servisi",
+  "heroDescription": "Aynı gün acil servis, uzman teknisyenler ve 1 yıl garantili orijinal yedek parça desteğiyle buzdolabı arızalarına yerinde çözüm.",
   "highlights": [
-    "Araç Proje | TSE Onaylı",
-    "Motosiklet Çanta Ruhsata İşletme",
-    "TÜVTÜRK & Noter Tescil Desteği"
+    "Aynı Gün Servis",
+    "1 Yıl Garanti",
+    "Orijinal Parça",
+    "Yerinde Tamir"
   ],
   "metrics": [
     {
-      "value": "12+ Yıl",
-      "label": "Mühendislik Deneyimi"
+      "value": "1 Yıl",
+      "label": "İşçilik ve Parça Garantisi"
     },
     {
-      "value": "1.000+",
-      "label": "Tescilli Proje"
+      "value": "Acil",
+      "label": "Aynı Gün Müdahale"
     },
     {
       "value": "%100",
-      "label": "Mevzuat Uyumu"
+      "label": "Orijinal Yedek Parça"
     }
   ],
-  "aboutTitle": "Araç projesi ve motosiklet çanta tescilinde iki ana uzmanlık",
-  "aboutText": "İhtiyacınız olan hizmet alanını seçin; mevzuata tam uygun teknik hesaplama, TSE 360 dijital dosya onayı ve noter tescil adımlarını sıfır hata güvencesiyle tamamlayalım.",
+  "aboutTitle": "Teknik Uzmanlık ve Hızlı Çözüm",
+  "aboutText": "buzdofy, ev ve işletmeler için buzdolabı arıza tespit ve teknik servis hizmeti sunar. Tüm marka ve modellerde uzman teknisyenlerle aynı gün yerinde müdahale eder, değişen parçalara 1 yıl garanti sağlarız.",
   "categories": [
-    "Araç Projeleri",
-    "Dönüşüm",
-    "Söküm",
-    "Motosiklet",
-    "Belgelendirme"
+    "Arıza Onarımı",
+    "Gaz Dolumu",
+    "Periyodik Bakım",
+    "Yedek Parça"
   ],
-  "services": [],
+  "services": [
+    {
+      "title": "Soğutmama Arızası Onarımı",
+      "shortTitle": "Soğutmama Arızası Onarımı",
+      "slug": "sogutmama-arizasi-onarimi",
+      "summary": "Soğutma performans kaybı, fan arızası ve gaz eksikliği sorunlarının yerinde tespiti ve onarımı.",
+      "category": "Arıza Onarımı"
+    },
+    {
+      "title": "Kompresör Değişimi",
+      "shortTitle": "Kompresör Değişimi",
+      "slug": "kompresor-degisimi",
+      "summary": "Arızalı buzdolabı motorlarının orijinal kompresörlerle garantili olarak yerinde değiştirilmesi.",
+      "category": "Arıza Onarımı"
+    },
+    {
+      "title": "Gaz Kaçağı ve Dolumu",
+      "shortTitle": "Gaz Kaçağı ve Dolumu",
+      "slug": "gaz-kacagi-ve-dolumu",
+      "summary": "Soğutma borularındaki kaçakların nitrojenle tespiti, kaynağı ve standartlara uygun gaz şarjı.",
+      "category": "Gaz Dolumu"
+    },
+    {
+      "title": "No-Frost Sistem Tamiri",
+      "shortTitle": "No-Frost Sistem Tamiri",
+      "slug": "no-frost-sistem-tamiri",
+      "summary": "Karlanma, buzlanma ve drenaj tıkanıklığı yapan rezistans, sensör ve termostat onarımı.",
+      "category": "Arıza Onarımı"
+    },
+    {
+      "title": "Elektronik Kart Tamiri",
+      "shortTitle": "Elektronik Kart Tamiri",
+      "slug": "elektronik-kart-tamiri",
+      "summary": "Voltaj dalgalanması kaynaklı anakart ve dijital gösterge kartlarının teknik onarımı.",
+      "category": "Arıza Onarımı"
+    },
+    {
+      "title": "Conta ve Fitil Değişimi",
+      "shortTitle": "Conta ve Fitil Değişimi",
+      "slug": "conta-ve-fitil-degisimi",
+      "summary": "Hava kaçıran ve soğutma kaybına yol açan yıpranmış kapı contalarının yenilenmesi.",
+      "category": "Yedek Parça"
+    },
+    {
+      "title": "Kondenser ve Fan Bakımı",
+      "shortTitle": "Kondenser ve Fan Bakımı",
+      "slug": "kondenser-ve-fan-bakimi",
+      "summary": "Motor ömrünü uzatan ve enerji tüketimini düşüren teknik temizlik ve sistem kontrolü.",
+      "category": "Periyodik Bakım"
+    }
+  ],
   "faq": [
     {
-      "question": "Motosiklet çanta ruhsata nasıl işletilir?",
-      "answer": "Motosiklete monte edilen arka çanta veya taşıma kutusu için yetkili makine mühendisimiz tarafından TSE onaylı tadilat projesi çizilir. Ardından TSE Araç Kontrol Merkezi incelemesi ve TÜVTÜRK tespit muayenesi yapılarak noterden yeni ruhsat teslim alınır."
+      "question": "Servis talebinden ne kadar süre sonra adresime gelinir?",
+      "answer": "Aynı gün servis prensibimizle kaydınız alındıktan sonra nöbetçi teknisyenlerimiz yönlendirilir. Çoğu arızaya birkaç saat içinde müdahale edilir."
     },
     {
-      "question": "Araç projesi hangi durumlarda zorunludur?",
-      "answer": "Karavan dönüşümü, motor değişimi, çeki demiri montajı, koltuk sökümü veya ilavesi, LPG sökümü ve engelli aparatı gibi aracın fabrika çıkış özelliklerini değiştiren tüm işlemlerde yasal olarak araç projesi zorunludur."
+      "question": "Değiştirilen parçalar ve işçilik garantili mi?",
+      "answer": "Onarım sırasında takılan tüm orijinal parçalar ve yapılan işçilik 1 yıl süreyle garantilidir. Garanti belgesi onarım sonrasında teslim edilir."
     },
     {
-      "question": "TSE onay ve ruhsat süreci ne kadar sürer?",
-      "answer": "Teknik evraklarınız ve montaj faturanız hazır olduğunda proje çizimi ve TSE 360 sistemine dosya yükleme işlemi aynı gün içinde tamamlanır. Randevu sonrasında muayene ve noter tesciliyle süreç hızla sonuçlandırılır."
+      "question": "Tamir işlemi yerinde mi yapılır?",
+      "answer": "Arızaların büyük çoğunluğu evinizde ve ilk ziyarette çözülür. Sadece ağır gövde kaçağı veya atölye testi gerektiren durumlarda cihaz taşınır."
+    },
+    {
+      "question": "Hangi marka buzdolaplarına bakıyorsunuz?",
+      "answer": "No-frost, gardırop tipi, ankastre ve ticari dolaplar dahil olmak üzere tüm yerli ve ithal buzdolabı markalarına hizmet vermekteyiz."
     }
   ],
-  "ctaLabel": "Teklif Al"
+  "ctaLabel": "WhatsApp Servis Kaydı"
 }
